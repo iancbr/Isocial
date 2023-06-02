@@ -12,10 +12,7 @@ public class PostVideo implements Postavel {
     }
 
     public boolean adicionaVideo(){
-        if(videos==null){
-           return false;
-        }
-        return true;
+
     }
     @Override
     public boolean posta() {
